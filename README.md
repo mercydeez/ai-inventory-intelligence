@@ -11,7 +11,9 @@
 > AI in Operations | Session II: AI Applications in Reorder Point and Inventory Management
 > SP Jain School of Global Management
 
-<!-- LIVE_APP_LINK -->
+**Live app:** [ai-inventory-intelligence.streamlit.app](https://ai-inventory-intelligence.streamlit.app)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-inventory-intelligence.streamlit.app)
 
 ![Before AI vs With AI](docs/before-vs-with-ai.jpg)
 
